@@ -15,4 +15,4 @@ Responde a las siguientes preguntas como parte de tu evaluación final. Guarda u
     *Respuesta:* (Los componentes son lo que se muestra el pantalla el frontend y lo del angular es todo lo interno que necesita la pagina, el backend)
 
 5.  **¿Por qué validamos en el formulario si el backend ya valida en el Manager?**
-    *Respuesta:* (Se valida ya que facilita al usuario para el usuario saber que error tiene a la hora de subir informacion etc, y evita un llamado innecesario al servidor)
+    *Respuesta:* (Se valida ya que facilita al usuario para el usuario saber que error tiene a la hora de subir informacion etc, y evita un llamado innecesario al servidor.)
